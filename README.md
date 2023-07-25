@@ -1,7 +1,5 @@
 # ARIMA-Prediction in Stock market
 
-# ARIMA Stock Market Prediction using Python
-
 This repository contains the code and resources for performing stock market prediction using the ARIMA (AutoRegressive Integrated Moving Average) model in Python. The ARIMA model is a powerful time series analysis technique that can be utilized to forecast future trends based on historical data.
 
 ## Table of Contents
